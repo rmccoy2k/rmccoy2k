@@ -1,4 +1,21 @@
-### Hi everyone 👋, I'm Rico and I'm a frontend and backend developer.
+### Hi there 👋, Hi everyone 👋, I am Rico!
+#### I am a frontend and backend developer, with great organizational and prioritization abilities.
+![I am a frontend and backend developer, with great organizational and prioritization abilities.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
+Interest: I am a family man that enjoy family gatherings. I also enjoy traveling, sports, meeting new people and cooking to showcase my skills...lol.
+
+Skills: HTML5 | CSS3 | JS  | Bootstrap | Git |  GitHub | SQL | SSIS | Visual Studio Code | Terminal 
+
+- 🔭 I’m currently working on this page. 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/rmccoy2k)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/rico-mccoy-0b097116a//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/rico.mccoy.90/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://rmccoy2k.github.io/portfolio/)  
+
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/rmccoy2k)  
+
+
 
 <!--[![Portfolio](https://img.shields.io/portfolio?label=rmccoy2k.com&style=for-the-badge&url=https%3A%2F%2rmccoy2k.github.io/portfolio/)](rmccoy2k.github.io/portfolio/)
 [![Linkedin Connections](https://img.shields.io/linkedin/connects/rmccoy2k?color=#0e76a8&logo=linkedin&style=for-the-badge)](https://linkedin.com/intent/connects?original_referer=https%3A%2F%2Fgithub.com%2Frmccoy2k&screen_name=rmccoy2k)-->
