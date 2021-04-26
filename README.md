@@ -37,15 +37,8 @@ Interest: I am a family man that enjoy family gatherings. I also enjoy traveling
 
 <!-- Badges -->  
 <!--
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a>
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='35' height='35'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='35' height='35'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a>
 -->
-
-
-
-[<img align="left" alt="" width="22px" src="rmccoy2k.github.io/portfolio/iconic/open-iconic/master/svg/globe.svg" />](rmccoy2k.github.io/portfolio/)
-
-<!--[![Portfolio](https://img.shields.io/portfolio?label=rmccoy2k.com&style=for-the-badge&url=https%3A%2F%2rmccoy2k.github.io/portfolio/)](rmccoy2k.github.io/portfolio/)
-[![Linkedin Connections](https://img.shields.io/linkedin/connects/rmccoy2k?color=#0e76a8&logo=linkedin&style=for-the-badge)](https://linkedin.com/intent/connects?original_referer=https%3A%2F%2Fgithub.com%2Frmccoy2k&screen_name=rmccoy2k)-->
 
 <!--
 **rmccoy2k/rmccoy2k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -63,11 +56,8 @@ Here are some ideas to get you started:
 -->
 
 <br />
-
-
-
 <br />
-<br />
+---
 
 [![rmccoy2k's GitHub stats](https://github-readme-stats.vercel.app/api?username=rmccoy2k)](https://github.com/anuraghazra/github-readme-stats)
 
