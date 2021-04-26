@@ -4,10 +4,11 @@
 <br />
 ---
 
-### Hi everyone 👋, I am Rico!
-#### I am a frontend and backend developer, with great organizational and prioritization abilities.
+# Hi everyone 👋, I am Rico!
 
-Interest: I am a family man that enjoy family gatherings. I also enjoy traveling, sports, meeting new people and cooking to showcase my skills...lol.
+## I am a frontend and backend developer, with great organizational and prioritization abilities.
+
+## Interest: I am a family man that enjoy family gatherings. I also enjoy traveling, sports, meeting new people and cooking to showcase my skills...lol.
 
 ### Spotify Playing 🎧
 
