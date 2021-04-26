@@ -16,7 +16,9 @@
 
 ## Feel free to connect with me at the following links below:
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/https://github.com/rmccoy2k)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/rico-mccoy-0b097116a//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/rico.mccoy.90/)  [<img src='https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg' alt='website' height='40'>](https://rmccoy2k.github.io/portfolio/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/https://github.com/rmccoy2k)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/rico-mccoy-0b097116a//)  
+[<img src='https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white' alt='facebook' height='30'>](https://www.facebook.com/https://www.facebook.com/rico.mccoy.90/)  
+[<img src='https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg' alt='website' height='40'>](https://rmccoy2k.github.io/portfolio/)
 [<img src='https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white' alt='github' height='30'>](https://rmccoy2k@hotmail.com)
 <br />
 <br />
