@@ -4,24 +4,24 @@
 <br />
 ---
 
-# Hi everyone 👋, I am Rico!
+## Hi everyone 👋, I am Rico!
 
-## I am a frontend and backend developer, with great organizational and prioritization abilities.
+### I am a frontend and backend developer, with great organizational and prioritization abilities.
 
-## Interest: I am a family man that enjoy family gatherings. I also enjoy traveling, sports, meeting new people and cooking to showcase my skills...lol.
+### Interest: I am a family man that enjoy family gatherings. I also enjoy traveling, sports, meeting new people and cooking to showcase my skills...lol.
 
-### Spotify Playing 🎧
+## Spotify Playing 🎧
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
-### Feel free to connect with me at the following links below:
+## Feel free to connect with me at the following links below:
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/rmccoy2k)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/rico-mccoy-0b097116a//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/rico.mccoy.90/)  [<img src='https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg' alt='website' height='40'>](https://rmccoy2k.github.io/portfolio/)
 <br />
 <br />
 ---
 
-### Languages & Tools:
+## Languages & Tools:
 
 <!-- Icons -->
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](https://rmccoy2k.github.io/portfolio/Project%20Page/projects.html)
