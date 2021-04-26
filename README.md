@@ -15,7 +15,7 @@ Interest: I am a family man that enjoy family gatherings. I also enjoy traveling
 
 ### Feel free to connect with me at the following links below:
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/rmccoy2k)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/rico-mccoy-0b097116a//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/rico.mccoy.90/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/iconic/open-iconic/master/svg/globe.svg' alt='website' height='40'>](https://rmccoy2k.github.io/portfolio/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/rmccoy2k)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/rico-mccoy-0b097116a//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/rico.mccoy.90/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/iconic/master/svg/globe.svg' alt='website' height='40'>](https://rmccoy2k.github.io/portfolio/)
 <br />
 <br />
 ---
@@ -30,7 +30,7 @@ Interest: I am a family man that enjoy family gatherings. I also enjoy traveling
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />](https://rmccoy2k.github.io/portfolio/Project%20Page/projects.html)
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />](https://rmccoy2k.github.io/portfolio/Project%20Page/projects.html)
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://rmccoy2k.github.io/portfolio/Project%20Page/projects.html)
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
+[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]()
 <br />
 <br />
 ---
