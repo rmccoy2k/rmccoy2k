@@ -1,8 +1,11 @@
-### Hi everyone 👋, I am Rico!
-#### I am a frontend and backend developer, with great organizational and prioritization abilities.
-
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+<br />
+<br />
+---
+
+### Hi everyone 👋, I am Rico!
+#### I am a frontend and backend developer, with great organizational and prioritization abilities.
 
 Interest: I am a family man that enjoy family gatherings. I also enjoy traveling, sports, meeting new people and cooking to showcase my skills...lol.
 
@@ -25,7 +28,7 @@ Skills: HTML5 | CSS3 | JS  | Bootstrap | Git |  GitHub | SQL | SSIS | Visual Stu
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
  
 
-
+[<img align="left" alt="rmccoy2k.github.io/portfolio/" width="22px" src="rmccoy2k.github.io/portfolio/iconic/open-iconic/master/svg/globe.svg" />](rmccoy2k.github.io/portfolio/iconic/open-iconic/master/svg/globe.svg)
 
 <!--[![Portfolio](https://img.shields.io/portfolio?label=rmccoy2k.com&style=for-the-badge&url=https%3A%2F%2rmccoy2k.github.io/portfolio/)](rmccoy2k.github.io/portfolio/)
 [![Linkedin Connections](https://img.shields.io/linkedin/connects/rmccoy2k?color=#0e76a8&logo=linkedin&style=for-the-badge)](https://linkedin.com/intent/connects?original_referer=https%3A%2F%2Fgithub.com%2Frmccoy2k&screen_name=rmccoy2k)-->
@@ -44,15 +47,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-### Interest: I'm a family man that enjoy family gatherings. I also enjoy traveling, sports, meeting new people and cooking to showcase my skills...lol.
-
-### Feel free to connect with me at the following links below:
-
-<!--
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />]
-[<img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />] -->
 
 <br />
 
