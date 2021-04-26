@@ -26,9 +26,8 @@ Skills: HTML5 | CSS3 | JS  | Bootstrap | Git |  GitHub | SQL | SSIS | Visual Stu
   
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/rmccoy2k)  
-
+ 
+![GitHub metrics](https://metrics.lecoq.io/https://github.com/rmccoy2k)
 
 
 <!--[![Portfolio](https://img.shields.io/portfolio?label=rmccoy2k.com&style=for-the-badge&url=https%3A%2F%2rmccoy2k.github.io/portfolio/)](rmccoy2k.github.io/portfolio/)
