@@ -1,4 +1,4 @@
-### Hi everyone 👋, I'm Rico and I'm a frontend and backend developer [website]
+### Hi everyone 👋, I'm Rico and I'm a frontend and backend developer.
 
 <!--[![Portfolio](https://img.shields.io/portfolio?label=rmccoy2k.com&style=for-the-badge&url=https%3A%2F%2rmccoy2k.github.io/portfolio/)](rmccoy2k.github.io/portfolio/)
 [![Linkedin Connections](https://img.shields.io/linkedin/connects/rmccoy2k?color=#0e76a8&logo=linkedin&style=for-the-badge)](https://linkedin.com/intent/connects?original_referer=https%3A%2F%2Fgithub.com%2Frmccoy2k&screen_name=rmccoy2k)-->
