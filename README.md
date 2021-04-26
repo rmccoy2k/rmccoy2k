@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 ### Languages & Tools:
 
-[<img align="left" alt="HTML5" width="26px" src="https://rmccoy2k.github.io/portfolio/Project%20Page/projects.html/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][projects]
+[<img align="left" alt="HTML5" width="26px" src="github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][projects]
 [<img align="left" alt="CSS3" width="26px" src="https://rmccoy2k.github.io/portfolio/Project%20Page/projects.html/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css3/css3.png" />][projects]
 [<img align="left" alt="JavaScript" width="26px" src="https://rmccoy2k.github.io/portfolio/Project%20Page/projects.html/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][projects]
 [<img align="left" alt="T-SQL" width="26px" src="https://rmccoy2k.github.io/portfolio/Project%20Page/projects.html/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][projects]
