@@ -1,4 +1,4 @@
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
+[![Website](https://img.shields.io/website?label=https://rmccoy2k.github.io/portfolio/&style=for-the-badge&url=https%3A%2F%2Fhttps://rmccoy2k.github.io/portfolio/)](https://rmccoy2k.github.io/portfolio/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 <br />
 <br />
@@ -15,7 +15,7 @@ Interest: I am a family man that enjoy family gatherings. I also enjoy traveling
 
 ### Feel free to connect with me at the following links below:
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/rmccoy2k)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/rico-mccoy-0b097116a//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/rico.mccoy.90/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/iconic/master/svg/globe.svg' alt='website' height='40'>](https://rmccoy2k.github.io/portfolio/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/rmccoy2k)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/rico-mccoy-0b097116a//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/rico.mccoy.90/)  [<img src='https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg' alt='website' height='40'>](https://rmccoy2k.github.io/portfolio/)
 <br />
 <br />
 ---
