@@ -10,8 +10,7 @@
 
 ### *I am a frontend and backend developer, with great organizational and prioritization abilities.*
 
-### *Interest: I am a family man that enjoy family gatherings. I also enjoy traveling, sports, meeting new people and cooking to showcase my skills...lol.* 🤣
-<br/>
+### *Interest: I am a family man that enjoy family gatherings. I also enjoy traveling, sports, meeting new people and cooking to showcase my skills...lol.* 🤣<br/>
 
 ## Spotify Playing 🎧
 
