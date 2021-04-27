@@ -13,7 +13,6 @@
 ### *Interest: I am a family man that enjoy family gatherings. I also enjoy traveling, sports, meeting new people and cooking to showcase my skills...lol.* 🤣
 
 
-
 ## Spotify Playing 🎧
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/bpltz26vd7syn4ury87fm0oh8)
@@ -35,8 +34,9 @@
 [<img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />](https://rmccoy2k.github.io/portfolio/Project%20Page/projects.html)
 [<img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://rmccoy2k.github.io/portfolio/Project%20Page/projects.html)
 [<img align="left" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]()
-<br/>
 
+<br/>
+<br/>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rmccoy2k)](https://github.com/anuraghazra/github-readme-stats)
 
