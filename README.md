@@ -51,6 +51,14 @@
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='35' height='35'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='35' height='35'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a>
 -->
 
+<!-- Markdown Tips:
+
+To bolden the text, wrap it with two asterisks (*) (**word**)
+To italisize the text, wrap it with one asterisk (*) (*word*)
+To strikethrough the text, wrap it with two tildes (~) (~~word~~)
+To make a link, place the link text in brackets and the url in parentheses ([link](http://example.com))
+To make an example icon image, place an !, the alt text in brackets, and the url in parentheses (![github](/images/icon.png)) -->
+
 <!--
 **rmccoy2k/rmccoy2k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
