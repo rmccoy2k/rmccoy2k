@@ -8,19 +8,20 @@
 
 ## Hi everyone 👋, I'm Rico McCoy!
 
-### *I am a frontend and backend developer, with great organizational and prioritization abilities.
+### *I am a frontend and backend developer, with great organizational and prioritization abilities.*
 
-### Interest: I am a family man that enjoy family gatherings. I also enjoy traveling, sports, meeting new people and cooking to showcase my skills...lol. 🤣*
+### *Interest: I am a family man that enjoy family gatherings. I also enjoy traveling, sports, meeting new people and cooking to showcase my skills...lol.* 🤣
+
 
 ## Spotify Playing 🎧
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
+
 ## Feel free to connect with me at the following links below:
 
 [<img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white' alt='github' height='30'>](https://github.com/rmccoy2k)  [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Connect on Linkedin' height='30'>](https://www.linkedin.com/in/rico-mccoy-0b097116a/)  [<img src='https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white' alt='facebook' height='30'>](https://www.facebook.com/rico.mccoy.90/)  [<img src='https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white' alt='github' height='30'>](https://rmccoy2k@hotmail.com) [<img src='https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg' alt='website' height='30'>](https://rmccoy2k.github.io/portfolio/)
 
-<br/>
 
 ## Languages & Tools:
 
@@ -33,7 +34,7 @@
 [<img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />](https://rmccoy2k.github.io/portfolio/Project%20Page/projects.html)
 [<img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://rmccoy2k.github.io/portfolio/Project%20Page/projects.html)
 [<img align="left" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]()
-
+<br/>
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rmccoy2k)](https://github.com/anuraghazra/github-readme-stats)
