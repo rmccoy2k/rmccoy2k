@@ -2,8 +2,9 @@
 <br />
 
 ---
-[![Portfolio](https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https%3A%2F%2Fhttps://rmccoy2k.github.io/portfolio/)](https://rmccoy2k.github.io/portfolio/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+![Portfolio](https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https%3A%2F%2Fhttps://rmccoy2k.github.io/portfolio/)](https://rmccoy2k.github.io/portfolio/)
+<!--[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)-->
+![Github All Contributors](https://img.shields.io/github/all-contributors/rmccoy2k/all-contributors?logo=GitHub&style=for-the-badge)
 
 
 ## Hi everyone 👋, I'm Rico McCoy!
