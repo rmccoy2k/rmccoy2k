@@ -12,7 +12,6 @@
 
 ### *Interest: I am a family man that enjoy family gatherings. I also enjoy traveling, sports, meeting new people and cooking to showcase my skills...lol.* 🤣
 <br/>
-
 ## Spotify Playing 🎧
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/bpltz26vd7syn4ury87fm0oh8)
