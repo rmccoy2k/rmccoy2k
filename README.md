@@ -6,11 +6,11 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 
 
-## Hi everyone 👋, I am Rico!
+## Hi everyone 👋, I'm Rico McCoy!
 
-### I am a frontend and backend developer, with great organizational and prioritization abilities.
+### *I am a frontend and backend developer, with great organizational and prioritization abilities.
 
-### Interest: I am a family man that enjoy family gatherings. I also enjoy traveling, sports, meeting new people and cooking to showcase my skills...lol.
+### Interest: I am a family man that enjoy family gatherings. I also enjoy traveling, sports, meeting new people and cooking to showcase my skills...lol. 🤣*
 
 ## Spotify Playing 🎧
 
@@ -59,3 +59,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<br />
+<br />
+
+---
