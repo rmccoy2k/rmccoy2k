@@ -6,7 +6,7 @@
 ![GitHub visitors](https://img.shields.io/badge/Visitors-I%20really%20value%20the%20time%20that%20you%20took%20out%20of%20your%20busy%20schedule%20in%20order%20to%20view%20my%20GitHub%20account.%20-orange?style=for-the-badge&logo=appveyor)   
 <!--[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)-->
 ---
-<br/>
+
 ## Hi everyone 👋, I'm Rico McCoy!
 
 ### *I am a frontend and backend developer, with great organizational and prioritization abilities.*
