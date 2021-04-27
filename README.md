@@ -5,9 +5,6 @@
 [![Website](https://img.shields.io/website?label=Portfolio&style=for-the-badge&up_color=green&url=https%3A%2F%2Frmccoy2k.github.io%2Fportfolio%2F)](https://rmccoy2k.github.io/portfolio/) ![GitHub all releases](https://img.shields.io/github/downloads/rmccoy2k/3D-cube-box/total?logo=github&style=for-the-badge) ![GitHub milestones](https://img.shields.io/github/milestones/all/rmccoy2k/3D-cube-box?logo=github&style=for-the-badge) ![GitHub watcher](https://img.shields.io/github/watchers/rmccoy2k/3D-cube-box?logo=github&style=for-the-badge)
 ![GitHub visitors](https://img.shields.io/badge/Visitors-I%20really%20value%20the%20time%20that%20you%20took%20out%20of%20your%20busy%20schedule%20in%20order%20to%20view%20my%20GitHub%20account.%20-orange?style=for-the-badge&logo=appveyor)   
 <!--[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)-->
-<br />
-<br />
-
 ---
 
 
