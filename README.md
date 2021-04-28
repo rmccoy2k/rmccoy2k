@@ -7,7 +7,7 @@
 ---
 
 
-## Hi everyone 👋, I'm Rico McCoy!
+## 👋 Hi everyone, I'm Rico McCoy!
 
 ### *I am a frontend and backend developer, with great organizational and prioritization abilities.*
 
@@ -47,6 +47,7 @@
 ---
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rmccoy2k)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rmccoy2k&count_private=true)
 
 ---
 
