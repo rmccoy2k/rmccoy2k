@@ -52,7 +52,7 @@
 
 ## GitHub Profile Visitors:
 
-![Welcome GitHub Visitors](https://Welcome GitHub Visitors-badge.glitch.me/badge?page_id=rmccoy2k.rmccoy2k) 
+![Visitors](https://Visitors-badge.glitch.me/badge?page_id=rmccoy2k.rmccoy2k) 
 <!-- ![visitors][<img align="left" alt="HTML5" width="30px" />](https://visitor-badge.glitch.me/badge?page_id=rmccoy2k.rmccoy2k) -->
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=rmccoy2k.visitor-badge)
