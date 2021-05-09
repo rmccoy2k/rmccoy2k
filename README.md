@@ -55,7 +55,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=rmccoy2k.rmccoy2k) 
 <!-- ![visitors][<img align="left" alt="HTML5" width="30px" />](https://visitor-badge.glitch.me/badge?page_id=rmccoy2k.rmccoy2k) -->
 
-![Hi](https://visitor-badge.glitch.me/badge?page_id=rmccoy2k.visitor-badge)
+![Hi](https://hi-badge.glitch.me/badge?page_id=rmccoy2k.hi-badge)
 
 
 <!--START_SECTION:activity-->
