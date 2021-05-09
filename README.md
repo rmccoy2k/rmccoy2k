@@ -57,6 +57,8 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=rmccoy2k.visitor-badge)
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=${rmccoy2k}.${rmccoy2k.repo.id}.issue.${issue.id})
+
 
 <!--START_SECTION:activity-->
 
