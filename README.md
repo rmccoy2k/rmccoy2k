@@ -17,6 +17,8 @@
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
+<img align="right" alt="GIF" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fexceltable.com%2Fen%2Ftemplates%2Fdashboard-analyzing-advertising-sales&psig=AOvVaw3yh5saYoQqZoN5R7oz0lbp&ust=1620762019096000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMDBnZ3vv_ACFQAAAAAdAAAAABAK" width="500" height="320" />
+
 - 🔭 *I’ve previously worked at Expect More Restoration Services, LLC as a **SQL DEVELOPER/ DATA ANALYST**.*
 - 💪 *I'm a motivated leader with strong organizational and prioritization abilities; as well as, multitasking, good customer and personal service skills with great attention         to detail.*
 - 🤔 *I’m seeking a prosperous position with a company that would allow me a chance for advancements.*
