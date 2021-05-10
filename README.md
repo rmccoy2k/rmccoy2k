@@ -7,7 +7,7 @@
 ---
 
 
-<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="30px" alt="hi"> ## Hi everyone, I'm Rico McCoy!
+## <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="30px" alt="hi"> Hi everyone, I'm Rico McCoy!
 
 ### *I am a frontend and backend developer, with great organizational and prioritization abilities.*
 
@@ -15,10 +15,10 @@
 
 ## More About Me:
 
-- 🔭 I’ve previously worked at Expect More Restoration Services, LLC as a SQL DEVELOPER/ DATA ANALYST.
-- :computer: Most used line of code `git commit -m "Initial Commit"`
-- 🤔 I’m looking for help with Outstanding Video ideas.
-- 📫 How to reach me: islempenywis@gmail.com.
+- 🔭 *I’ve previously worked at Expect More Restoration Services, LLC as a SQL DEVELOPER/ DATA ANALYST.
+- 💪 *I'm a motivated leader with strong organizational and prioritization abilities; as well as, multitasking, good customer and personal service skills with great attention to detail.
+- 🤔 I’m seeking a prosperous position with a company that would allow me a chance for advancements.
+- 📫 Please feel free to email me @ rmccoy2k@hotmail.com
 - 😄 Pronouns: CoderOne, Ipenywis, islempenywis.
 - ⚡ Fun fact: I play games and go to the GYM very often.
 
