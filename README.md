@@ -15,7 +15,7 @@
 
 ## More about me:
 
-<img align="right"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
+<img align="left"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
 
 
 - 🔭 *I’ve previously worked at Expect More Restoration Services, LLC as a **SQL DEVELOPER/ DATA ANALYST**.*
