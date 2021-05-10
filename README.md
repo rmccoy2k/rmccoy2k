@@ -117,6 +117,8 @@ For Issue body, use ${your.username}.${your.repo.id}.issue.${issue.id}, https://
 
 ---
 
+<br >
+
 <details>
 <summary>
   All Of My Projects:
