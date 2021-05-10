@@ -15,7 +15,7 @@
 
 ## More about me:
 
-<img align="right" alt="GIF" src="https://github.com/rmccoy2k/rmccoy2k/blob/main/rmccoy2k-gif.gif?raw=true"500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/rmccoy2k/rmccoy2k/blob/main/rmccoy2k-gif.gif?width="500" height="320" />
 
 <!--
 <img align="right" alt="GIF" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fexceltable.com%2Fen%2Ftemplates%2Fdashboard-analyzing-advertising-sales&psig=AOvVaw3yh5saYoQqZoN5R7oz0lbp&ust=1620762019096000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMDBnZ3vv_ACFQAAAAAdAAAAABAK" width="500" height="320" />
