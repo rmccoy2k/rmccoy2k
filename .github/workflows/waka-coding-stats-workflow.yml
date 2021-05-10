@@ -1,18 +1,37 @@
-name: Update README
+name: Waka Readme
 
 on:
+  workflow_dispatch:
   schedule:
-    - cron: '*/30 * * * *'
+    # Runs at 12am UTC
+    - cron: "0 0 * * *"
+
+jobs:
+  update-readme:
+    name: Update this repo's README
+    runs-on: ubuntu-latest
+    steps:
+      - uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+
+
+# =============================================================================
+
+# name: Update README
+# on:
+#   schedule:
+#     - cron: '*/30 * * * *'
 #   workflow_dispatch: <<< By adding the "workflow_dispatch:", it will allow you to manual run  
 # '*/0 * * * *' <<<Use 0 in order to run your activities every hour
 
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    name: Update this repo's README with recent activity
+# jobs:
+#   build:
+#     runs-on: ubuntu-latest
+#     name: Update this repo's README with recent activity
 
-    steps:
-      - uses: actions/checkout@v2
-      - uses: jamesgeorge007/github-activity-readme@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+#     steps:
+#       - uses: actions/checkout@v2
+#       - uses: jamesgeorge007/github-activity-readme@master
+#         env:
+#           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
