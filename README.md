@@ -56,10 +56,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=rmccoy2k.rmccoy2k) 
 <!-- ![visitors][<img align="left" alt="HTML5" width="30px" />](https://visitor-badge.glitch.me/badge?page_id=rmccoy2k.rmccoy2k) -->
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=${rmccoy2k}.${rmccoy2k.repo.id}.issue.${issue.id}.visitor-badge.issue.1)
-
-![visitors][(https://visitor-badge.glitch.me/badge?label=Portfolio&style=for-the-badge&up_color=green&url=https%3A%2F%2Frmccoy2k.github.io%2Fportfolio%2F)]page_id=rmccoy2k.rmccoy2k)
-
+![visitors](https://visitor-badge.glitch.me/badge?page_id=${rmccoy2k}.${rmccoy2k.repo.id}.issue.${issue.id},visitor-badge.issue.1)
 
 <!-- label=Portfolio&style=for-the-badge&up_color=green&url=https%3A%2F%2Frmccoy2k.github.io%2Fportfolio%2F)] -->
 
