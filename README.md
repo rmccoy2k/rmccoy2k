@@ -21,8 +21,10 @@
 - 💪 *I'm a motivated leader with strong organizational and prioritization abilities; as well as, multitasking, good customer and personal service skills with great attention         to detail.*
 - 🤔 *I’m seeking a prosperous position with a company that would allow me a chance for advancements.*
 - 📫 *Please feel free to contact me via email @ rmccoy2k@hotmail.com; as well as, any of the other links that are listed below.*
+- <!--
 - 😄 Pronouns: CoderOne, Ipenywis, islempenywis.
 - ⚡ Fun fact: I play games and go to the GYM very often.
+- <!---->
 
 
 ## Spotify Playing 🎧
