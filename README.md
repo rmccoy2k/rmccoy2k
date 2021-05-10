@@ -15,8 +15,7 @@
 
 ## More about me:
 
-<img align="center"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
-
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="400" />
 
 - 🔭 *I’ve previously worked at Expect More Restoration Services, LLC as a **SQL DEVELOPER/ DATA ANALYST**.*
 - 💪 *I'm a motivated leader with strong organizational and prioritization abilities; as well as, multitasking, good customer and personal service skills with great attention         to detail.*
