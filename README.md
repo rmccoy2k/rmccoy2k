@@ -7,7 +7,7 @@
 ---
 
 
-## <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="30px" alt="hi"> Hi everyone, I'm Rico McCoy! 
+## <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="30px" alt="hi"> Hi everyone, I'm Rico McCoy!
 
 ### *I am a frontend and backend developer, with great organizational and prioritization abilities.*
 
@@ -16,7 +16,7 @@
 
 ## Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="30" />](https://open.spotify.com/user/bpltz26vd7syn4ury87fm0oh8)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/bpltz26vd7syn4ury87fm0oh8)
 
 ## Feel free to connect with me at the following links below:
 
@@ -50,16 +50,35 @@
 
 ---
 
+<!---------------------------------
+GitHub Profile Visitors Info & Code
+---------------------------------->
+
+<!-- Docs
+How to use?
+
+If you know how to add picture in markdown, then you are good to go.
+
+All you have to do is to add below markdown markup to your markdown content:
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+                
+
+            
+In which, the url parameter page_id is REQUIRED, please use the unique string to best represent your page.
+
+I recommend you to follow page_id rules below:
+
+For README.md file, use ${your.username}.${your.repo.id}, https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge for example.
+
+For Issue body, use ${your.username}.${your.repo.id}.issue.${issue.id}, https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge.issue.1 for example.
+
+...or any other markdown content, please give an unique string to distinguish -->
+
+
 ## GitHub Profile Visitors:
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=${rmccoy2k}.${rmccoy2k.repo.id}.issue.${issue.id},visitor-badge.issue.1)
-<!--
-![visitors](https://visitor-badge.glitch.me/badge?page_id=rmccoy2k.visitor-badge)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=rmccoy2k.rmccoy2k) 
-![visitors][<img align="left" alt="HTML5" width="30px" />](https://visitor-badge.glitch.me/badge?page_id=rmccoy2k.rmccoy2k) 
--->
-
-<!-- label=Portfolio&style=for-the-badge&up_color=green&url=https%3A%2F%2Frmccoy2k.github.io%2Fportfolio%2F)] -->
+![visitors][<img align="left" alt="HTML5" width="30px" />](https://visitor-badge.glitch.me/badge?page_id=rmccoy2k.rmccoy2k)
 
 
 <!--START_SECTION:activity-->
