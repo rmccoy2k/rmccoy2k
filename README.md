@@ -57,8 +57,10 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=${rmccoy2k}.${rmccoy2k.repo.id}.issue.${issue.id}.welcome-badge.issue.1)
 
-![visitors](https://visitor-badge.glitch.me/badge?Portfolio&style=for-the-page_id=rmccoy2k.rmccoy2k)
+![visitors][(https://visitor-badge.glitch.me/badge?label=Portfolio&style=for-the-badge&up_color=green&url=https%3A%2F%2Frmccoy2k.github.io%2Fportfolio%2F)]page_id=rmccoy2k.rmccoy2k)
 
+
+<!-- label=Portfolio&style=for-the-badge&up_color=green&url=https%3A%2F%2Frmccoy2k.github.io%2Fportfolio%2F)] -->
 
 
 <!--START_SECTION:activity-->
