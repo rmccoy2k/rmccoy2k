@@ -15,11 +15,11 @@
 
 ## More about me:
 
-<!-- <img align="right" alt="GIF" src="https://github.com/rmccoy2k/rmccoy2k/blob/main/rmccoy2k-gif.gif?raw=true" width="500" height="320" /> -->
+<img align="right" alt="GIF" src="https://github.com/rmccoy2k/rmccoy2k/blob/main/rmccoy2k-gif.gif?raw=true" width="500" height="320" /> 
 
-
+<!--
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-
+-->
 
 - 🔭 *I’m currently working at Expect More Restoration Services, LLC as a **SQL DEVELOPER/ DATA ANALYST**.*
 - 💪 *I'm a motivated leader with strong organizational and prioritization abilities; as well as, multitasking, good customer and personal service skills with great attention         to detail.*
@@ -29,7 +29,6 @@
 - 😄 Pronouns: CoderOne, Ipenywis, islempenywis.
 - ⚡ Fun fact: I play games and go to the GYM very often.
 -->
-
 <br >
 
 ## Spotify Playing 🎧
