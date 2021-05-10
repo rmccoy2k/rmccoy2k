@@ -25,9 +25,10 @@
 -->
 
 - 🔭 *I’m currently working at Expect More Restoration Services, LLC as a **SQL DEVELOPER/ DATA ANALYST**.*
-- 💪 *I'm a motivated leader with strong organizational and prioritization abilities; as well as, multitasking, good customer and personal service skills with great attention         to detail.*
+- 💪 *I'm a motivated leader with strong organizational and prioritization abilities; as well as, multitasking, good customer and personal service skills with great attention to detail.*
 - 🤔 *I’m seeking a prosperous position with a company that would allow me a chance for advancements.*
-- 📫 *Please feel free to contact me via email @ rmccoy2k@hotmail.com; as well as, any of the other links that are listed below.* 
+- 📫 *Please feel free to contact me via email @ rmccoy2k@hotmail.com; as well as, any of the other links that are listed below.*
+- <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 
 <!--
 - 😄 Pronouns: CoderOne, Ipenywis, islempenywis.
 - ⚡ Fun fact: I play games and go to the GYM very often.
