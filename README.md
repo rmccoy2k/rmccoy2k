@@ -52,12 +52,12 @@
 
 ## GitHub Profile Visitors:
 
-![visitors](https://Welcome-badge.glitch.me/badge?page_id=rmccoy2k.rmccoy2k) 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=rmccoy2k.rmccoy2k) 
 <!-- ![visitors][<img align="left" alt="HTML5" width="30px" />](https://visitor-badge.glitch.me/badge?page_id=rmccoy2k.rmccoy2k) -->
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=${rmccoy2k}.${rmccoy2k.repo.id}.issue.${issue.id}.welcome-badge.issue.1)
 
-![visitors](https://Welcome-badge.glitch.me/badge?Portfolio&style=for-the-page_id=rmccoy2k.rmccoy2k)
+![visitors](https://visitor-badge.glitch.me/badge?Portfolio&style=for-the-page_id=rmccoy2k.rmccoy2k)
 
 
 
