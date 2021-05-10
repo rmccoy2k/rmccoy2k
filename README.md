@@ -13,7 +13,7 @@
 
 ### *Interest: I am a family man that enjoy family gatherings. I also enjoy traveling, sports, meeting new people and cooking to showcase my skills...lol.* 🤣
 
-- 🔭 I’m currently working at @Toptal
+- 🔭 I’ve previously worked at @Toptal
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 🤔 I’m looking for help with Outstanding Video ideas.
 - 📫 How to reach me: islempenywis@gmail.com.
