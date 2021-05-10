@@ -16,7 +16,7 @@
 ## More About Me:
 
 - 🔭 *I’ve previously worked at Expect More Restoration Services, LLC as a SQL DEVELOPER/ DATA ANALYST.*
-- 💪 *I'm a motivated leader with strong organizational and prioritization abilities; as well as, multitasking, good customer and personal service skills with great attention         to detail.*
+- 💪 *I'm a motivated leader with strong organizational and prioritization abilities; as well as, multitasking, good customer and personal service skills with great attention               to detail.*
 - 🤔 I’m seeking a prosperous position with a company that would allow me a chance for advancements.
 - 📫 Please feel free to email me @ rmccoy2k@hotmail.com
 - 😄 Pronouns: CoderOne, Ipenywis, islempenywis.
