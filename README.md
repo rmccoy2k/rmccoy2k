@@ -28,7 +28,7 @@
 - 💪 *I'm a motivated leader with strong organizational and prioritization abilities; as well as, multitasking, good customer and personal service skills with great attention to detail.*
 - 🤔 *I’m seeking a prosperous position with a company that would allow me a chance for advancements.*
 - 📫 *Please feel free to contact me via email @ rmccoy2k@hotmail.com; as well as, any of the other links that are listed below.*
-- <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="25"/> *Knowledgeable in T-SQL, SSIS & Data Tools as Visual Studio | (MSSMS) 2014, 2016, 2017 & 2019 | HTML5, CSS3 & JavaScript*
+- <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="25"/> *Knowledgeable in **T-SQL**, **SSIS** & **Data Tools** as **Visual Studio** | **(MSSMS) 2014**, **2016**, **2017** & **2019** | **HTML5**, **CSS3** & **JavaScript***
 <!--
 - 😄 Pronouns: CoderOne, Ipenywis, islempenywis.
 - ⚡ Fun fact: I play games and go to the GYM very often.
