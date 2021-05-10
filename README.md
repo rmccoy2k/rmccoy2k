@@ -111,7 +111,7 @@ For Issue body, use ${your.username}.${your.repo.id}.issue.${issue.id}, https://
 
 ## Welcome To All My GitHub Profile Visitors!
 
-<img align="right" alt="GIF" src="https://github.com/rmccoy2k/rmccoy2k/blob/main/rmccoy2k-gif.gif?raw=true" width="500" height="320" /> 
+<img align="right" alt="GIF" src="https://github.com/rmccoy2k/rmccoy2k/blob/main/rmccoy2k-gif-2.gif?raw=true" width="500" height="320" /> 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=${rmccoy2k}.${rmccoy2k.repo.id}.issue.${issue.id},visitor-badge.issue.1)
 
