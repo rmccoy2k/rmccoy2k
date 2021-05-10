@@ -1,5 +1,5 @@
-<br />
-<br />
+<br >
+<br >
 
 ---
 [![Website](https://img.shields.io/website?label=Portfolio&style=for-the-badge&up_color=green&url=https%3A%2F%2Frmccoy2k.github.io%2Fportfolio%2F)](https://rmccoy2k.github.io/portfolio/) ![GitHub all releases](https://img.shields.io/github/downloads/rmccoy2k/3D-cube-box/total?logo=github&style=for-the-badge) ![GitHub milestones](https://img.shields.io/github/milestones/all/rmccoy2k/3D-cube-box?logo=github&style=for-the-badge) ![GitHub watcher](https://img.shields.io/github/watchers/rmccoy2k/3D-cube-box?logo=github&style=for-the-badge)
@@ -103,6 +103,8 @@ For Issue body, use ${your.username}.${your.repo.id}.issue.${issue.id}, https://
 ## Welcome To All My GitHub Profile Visitors!
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=${rmccoy2k}.${rmccoy2k.repo.id}.issue.${issue.id},visitor-badge.issue.1)
+
+---
 
 
 <!--START_SECTION:activity-->
