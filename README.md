@@ -26,6 +26,7 @@
 - ⚡ Fun fact: I play games and go to the GYM very often.
 -->
 
+<br >
 
 ## Spotify Playing 🎧
 
