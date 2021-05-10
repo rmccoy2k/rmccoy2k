@@ -59,7 +59,6 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rmccoy2k&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-<br />
 
 ## Coding Stats
 
@@ -72,7 +71,7 @@ Other        2 mins          ░░░░░░░░░░░░░░░░░
 YAML         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 ```
 <!--END_SECTION:waka-->
-
+---
 
 <!---------------------------------
 GitHub Profile Visitors Info & Code
