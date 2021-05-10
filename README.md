@@ -24,7 +24,7 @@
 - <!--
 - 😄 Pronouns: CoderOne, Ipenywis, islempenywis.
 - ⚡ Fun fact: I play games and go to the GYM very often.
-- <!---->
+- -->
 
 
 ## Spotify Playing 🎧
