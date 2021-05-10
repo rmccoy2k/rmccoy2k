@@ -53,7 +53,6 @@
 <br />
 
 ---
----
 
 ## Github Stats
 
@@ -61,7 +60,6 @@
 
 ---
 <br />
-
 
 ## Coding Stats
 
