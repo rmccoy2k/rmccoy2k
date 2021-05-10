@@ -73,7 +73,7 @@
 ---
 
 
-## Coding Stats
+## 📊 Coding Stats
 
 <!--START_SECTION:waka-->
 ```text
