@@ -28,6 +28,7 @@
 - 💪 *I'm a motivated leader with strong organizational and prioritization abilities; as well as, multitasking, good customer and personal service skills with great attention to detail.*
 - 🤔 *I’m seeking a prosperous position with a company that would allow me a chance for advancements.*
 - 📫 *Please feel free to contact me via email @ rmccoy2k@hotmail.com; as well as, any of the other links that are listed below.*
+- ***Education:** I'm a alumni of <a href="https://www.troy.edu/alumni/index.html">Troy University.</a> Where I obtained my B. S. Degree in Criminal Justice. <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="25">
 - <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="25"/> *Knowledgeable in **T-SQL**, **SSIS** & **Data Tools** as **Visual Studio** | **(MSSMS) 2014**, **2016**, **2017** & **2019** | **HTML5**, **CSS3** & **JavaScript***
 <!--
 - 😄 Pronouns: CoderOne, Ipenywis, islempenywis.
