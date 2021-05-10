@@ -27,7 +27,7 @@
 -->
 
 <br >
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/rmccoy2k/rmccoy2k/blob/main/template4-1.gif?raw=true" width="500" height="320" />
 
 ## Spotify Playing 🎧
 
