@@ -116,9 +116,10 @@ For Issue body, use ${your.username}.${your.repo.id}.issue.${issue.id}, https://
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=${rmccoy2k}.${rmccoy2k.repo.id}.issue.${issue.id},visitor-badge.issue.1)
 
+<br > 
+
 ---
 
-<br >
 
 <details>
 <summary>
