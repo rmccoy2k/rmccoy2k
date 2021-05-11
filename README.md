@@ -72,7 +72,9 @@
 
 [![rmccoy2k's GitHub stats](https://github-readme-stats.vercel.app/api?username=rmccoy2k&show_icons=true&hide_border=true)](https://github.com/rmccoy2k/github-readme-stats)
 
-<img  src="https://github-readme-stats.vercel.app/api?username=jatin2003&show_icons=true&hide_border=true&theme=dark" width="48%" align="right" >
+<br >
+
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=jatin2003&theme=dark" width="48%" >
 
 ---
 
