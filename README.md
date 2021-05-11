@@ -129,6 +129,8 @@ For Issue body, use ${your.username}.${your.repo.id}.issue.${issue.id}, https://
 <summary>
   All Of My Projects:
 </summary>
+	
+## **COMING SOON!**
 
 
 <!--
@@ -141,7 +143,8 @@ CoderOne is a youtube channel for learning Web/Mobile development, coding and de
 </details>
 
 
-<!--<details>
+<!--
+<details>
 <summary>
 All Of My Projects:
 </summary>
