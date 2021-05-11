@@ -74,7 +74,7 @@
 
 ##
 
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=rmccoy2k&theme=true&hide_border=true" width="60%" hieght="60%" >
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=rmccoy2k&theme=true&hide_border=true" width="80%" hieght="80%" >
 
 ---
 
