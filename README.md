@@ -141,7 +141,7 @@ CoderOne is a youtube channel for learning Web/Mobile development, coding and de
 </details>
 
 
-<details>
+<!--<details>
 <summary>
 All Of My Projects:
 </summary>
@@ -182,7 +182,8 @@ All Of My Projects:
     </tr>
   </tbody>
 </table>
-</details>
+</details> 
+-->
 
 <!--START_SECTION:activity-->
 
