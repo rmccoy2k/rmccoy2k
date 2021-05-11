@@ -116,10 +116,10 @@ For Issue body, use ${your.username}.${your.repo.id}.issue.${issue.id}, https://
 
 <img align="right" alt="GIF" src="https://github.com/rmccoy2k/rmccoy2k/blob/main/rmccoy2k-gif-2.gif?raw=true" width="500" height="320" />
 
-<br > 
-
 ---
 
+
+<!-- Additional Info -->
 
 <details>
 <summary>
