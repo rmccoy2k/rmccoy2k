@@ -72,12 +72,14 @@
 
 [![rmccoy2k's GitHub stats](https://github-readme-stats.vercel.app/api?username=rmccoy2k&show_icons=true&hide_border=true)](https://github.com/rmccoy2k/github-readme-stats)
 
-<br >  ##
+<br >  
+
+##
 
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=rmccoy2k&theme=true&hide_border=true" width="48%" >
 
 ---
-&theme=dark
+
 
 ## 📊 Coding Stats
 
