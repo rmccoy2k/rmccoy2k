@@ -141,12 +141,14 @@ CoderOne is a youtube channel for learning Web/Mobile development, coding and de
 -->
 </details>
 
-<br >
 
 <details>
 <summary>
 All Of My Projects:
 </summary>
+	
+<br >
+
 <table>
   <thead align="center">
     <tr border: none;>
