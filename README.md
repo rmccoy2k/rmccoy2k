@@ -130,7 +130,6 @@ For Issue body, use ${your.username}.${your.repo.id}.issue.${issue.id}, https://
   All Of My Projects:
 </summary>
 
-<br >
 
 <!--
 I love sharing knowledge and putting tutorials, courses and posts together for helping other developers, and tjat's why CoderOne Youtube Channel exists!
