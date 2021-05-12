@@ -68,7 +68,7 @@
 ---
 
 
-## 📊 Github Stats
+## 📊 Github Stats & Streaks
 
 [![rmccoy2k's GitHub stats](https://github-readme-stats.vercel.app/api?username=rmccoy2k&show_icons=true&hide_border=true)](https://github.com/rmccoy2k/github-readme-stats) 
 
