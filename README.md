@@ -117,7 +117,7 @@ For Issue body, use ${your.username}.${your.repo.id}.issue.${issue.id}, https://
 ...or any other markdown content, please give an unique string to distinguish -->
 
 
-## Welcome To All My GitHub Profile Visitors! 
+## Welcome to all of my GitHub profile visitors! 
 
 <img align="right" alt="GIF" src="https://github.com/rmccoy2k/rmccoy2k/blob/main/rmccoy2k-gif-2.gif?raw=true" width="500" height="320" />
 
