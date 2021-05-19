@@ -220,9 +220,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-
-  </td>
-  </table>
-  
-[//]: <> (The `&nbsp;` is to have Aphelion take up more space)
+--
