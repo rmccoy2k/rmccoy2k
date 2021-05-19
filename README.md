@@ -107,7 +107,7 @@ If you know how to add picture in markdown, then you are good to go.
 
 All you have to do is to add below markdown markup to your markdown content:
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+![GitHub-visitors](https://GitHub-visitor-badge.glitch.me/badge?page_id=page.id)
                 
           
 In which, the url parameter page_id is REQUIRED, please use the unique string to best represent your page.
