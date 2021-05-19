@@ -4,7 +4,7 @@
       
 ---
 ---
-[![Website](https://img.shields.io/website?label=Portfolio&style=for-the-badge&up_color=green&url=https%3A%2F%2Frmccoy2k.github.io%2Fportfolio%2F)](https://rmccoy2k.github.io/portfolio/) ![GitHub all releases](https://img.shields.io/github/downloads/rmccoy2k/3D-cube-box/total?logo=github&style=for-the-badge) ![GitHub milestones](https://img.shields.io/github/milestones/all/rmccoy2k/3D-cube-box?logo=github&style=for-the-badge) ![GitHub watcher](https://img.shields.io/github/watchers/rmccoy2k/3D-cube-box?logo=github&style=for-the-badge) [![GitHub Visits](https://github.com/rmccoy2k?username=rmccoy2k&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)](https://github.com/rmccoy2k)
+[![Website](https://img.shields.io/website?label=Portfolio&style=for-the-badge&up_color=green&url=https%3A%2F%2Frmccoy2k.github.io%2Fportfolio%2F)](https://rmccoy2k.github.io/portfolio/) ![GitHub all releases](https://img.shields.io/github/downloads/rmccoy2k/3D-cube-box/total?logo=github&style=for-the-badge) ![GitHub milestones](https://img.shields.io/github/milestones/all/rmccoy2k/3D-cube-box?logo=github&style=for-the-badge) ![GitHub watcher](https://img.shields.io/github/watchers/rmccoy2k/3D-cube-box?logo=github&style=for-the-badge) 
 <!--[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)-->
 ---
 ---
@@ -125,8 +125,8 @@ For Issue body, use ${your.username}.${your.repo.id}.issue.${issue.id}, https://
 
 <img align="right" alt="GIF" src="https://github.com/rmccoy2k/rmccoy2k/blob/main/rmccoy2k-gif-2.gif?raw=true" width="500" height="320" />
 
-![GitHub Visitors](https://visitor-badge.glitch.me/badge?page_id=${rmccoy2k}.${rmccoy2k.repo.id}.issue.${issue.id},GitHub%20visitor-badge.issue.1)
-[![Visits](https://komarev.com/ghpvc/?username=rmccoy2k&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)](https://github.com/novatorem)
+![GitHub Visitors](https://visitor-badge.glitch.me/badge?page_id=${rmccoy2k}.${rmccoy2k.repo.id}.issue.${issue.id},visitor-badge.issue.1)
+[![Visits](https://komarev.com/ghpvc/?username=rmccoy2k&logo=GitHub&label=GitHub%20Visitors&color=336699&logoColor=white&style=flat-square)](https://github.com/rmccoy2k)
 
 ---
 
