@@ -1,6 +1,6 @@
 <table width="100%"> 
-  <tr>
-  <td width="100%">
+  <td>
+  <tr width="100%">
       
 ---
 ---
@@ -9,7 +9,7 @@
 ---
 ---
 
-  </td>
+  </tr>
   <tr width="100%">
 <!-- 
 <br><p align="center">Everything here is available under the [Unlicense](https://choosealicense.com/licenses/unlicense/)!<br><br>
