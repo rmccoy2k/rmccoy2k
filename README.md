@@ -1,6 +1,6 @@
 <table width="100%"> 
   <td>
-  <td width="100%"> 
+  <tr width="100%"> 
       
 ---
 ---
