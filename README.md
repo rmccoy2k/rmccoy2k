@@ -1,18 +1,9 @@
-<table width="100%"> 
-<tr>
-
-  
-      
 ---
 ---
 [![Website](https://img.shields.io/website?label=Portfolio&style=for-the-badge&up_color=green&url=https%3A%2F%2Frmccoy2k.github.io%2Fportfolio%2F)](https://rmccoy2k.github.io/portfolio/) ![GitHub all releases](https://img.shields.io/github/downloads/rmccoy2k/3D-cube-box/total?logo=github&style=for-the-badge) ![GitHub milestones](https://img.shields.io/github/milestones/all/rmccoy2k/3D-cube-box?logo=github&style=for-the-badge) ![GitHub watcher](https://img.shields.io/github/watchers/rmccoy2k/3D-cube-box?logo=github&style=for-the-badge) 
 <!--[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)-->
 ---
 ---
-	  
-</td>
-<td width="100%">
-	
 	
 
 ## <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="30px" alt="hi"> Hi everyone, I'm Rico McCoy!
