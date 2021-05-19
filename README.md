@@ -1,6 +1,6 @@
 <table width="100%"> 
   <tr>
-  <td width="50%"> 
+  <tr width="100%"> 
       
 ---
 ---
@@ -10,7 +10,7 @@
 ---
 	  
 </td>
-<td width="50%">
+<td width="1r0%">
 
 
 ## <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="30px" alt="hi"> Hi everyone, I'm Rico McCoy!
