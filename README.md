@@ -13,7 +13,7 @@
 </tr>
 <td width="100%">
   </td>
-  </table>
+
 	
 [//]: <> (The `&nbsp;` is to have Aphelion take up more space)
 
