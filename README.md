@@ -111,9 +111,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-HTML         4 hrs 53 mins   ████████████░░░░░░░░░░░░░   48.15 % 
-CSS          3 hrs 59 mins   █████████▓░░░░░░░░░░░░░░░   39.30 % 
-JavaScript   1 hr 16 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.55 % 
+CSS          8 hrs 16 mins   ██████████████░░░░░░░░░░░   55.80 % 
+HTML         5 hrs 16 mins   █████████░░░░░░░░░░░░░░░░   35.61 % 
+JavaScript   1 hr 16 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 % 
 ```
 <!--END_SECTION:waka-->
 
