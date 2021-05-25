@@ -148,7 +148,7 @@ For Issue body, use ${your.username}.${your.repo.id}.issue.${issue.id}, https://
 
 <img align="right" alt="GIF" src="https://github.com/rmccoy2k/rmccoy2k/blob/main/rmccoy2k-gif-2.gif?raw=true" width="500" height="320" />
 
-![Visitors](https://Visitor-badge.glitch.me/badge?page_id=${rmccoy2k}.${rmccoy2k.repo.id}.issue.${issue.id},Visitor-badge.issue.1)
+![Visitors](https://Visitor-badge.glitch.me/badge?page_id=${rmccoy2k}.${rmccoy2k.repo.id}.issue.${issue.id},visitor-badge.issue.1)
 <!-- [![Visits](https://komarev.com/ghpvc/?username=rmccoy2k&logo=GitHub&label=GitHub%20Visitors&color=336699&logoColor=white&style=flat-square)](https://github.com/rmccoy2k) -->
 
 ---
