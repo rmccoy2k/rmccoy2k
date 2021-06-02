@@ -162,7 +162,9 @@ For Issue body, use ${your.username}.${your.repo.id}.issue.${issue.id}, https://
 	
 ## **COMING SOON!**
 	
-	<br >
+<br >
+
+---
 
 <table>
   <thead align="center">
