@@ -164,8 +164,6 @@ For Issue body, use ${your.username}.${your.repo.id}.issue.${issue.id}, https://
 	
 <br >
 
----
-
 <table>
   <thead align="center">
     <tr border: none;>
@@ -212,6 +210,7 @@ CoderOne is a youtube channel for learning Web/Mobile development, coding and de
 -->
 </details>
 
+---
 
 <!--
 <details>
