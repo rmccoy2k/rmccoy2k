@@ -166,7 +166,7 @@ For Issue body, use ${your.username}.${your.repo.id}.issue.${issue.id}, https://
 <br >
 	
 
-<table>
+<!-- <table>
   <thead align="center">
     <tr border: none;>
       <td><b>🎁 Projects</b></td>
@@ -199,7 +199,7 @@ For Issue body, use ${your.username}.${your.repo.id}.issue.${issue.id}, https://
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/rmccoy2k/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/>       </td>
     </tr>
   </tbody>
-</table>
+</table> -->
  
 
 
