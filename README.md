@@ -165,7 +165,7 @@ For Issue body, use ${your.username}.${your.repo.id}.issue.${issue.id}, https://
 	
 <br >
 	
-<!--
+
 <table>
   <thead align="center">
     <tr border: none;>
@@ -200,7 +200,7 @@ For Issue body, use ${your.username}.${your.repo.id}.issue.${issue.id}, https://
     </tr>
   </tbody>
 </table>
---> 
+ 
 
 
 <!--
