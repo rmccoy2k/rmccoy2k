@@ -222,6 +222,7 @@ All Of My Projects:
 	
 <br >
 
+<!--  
 <table>
   <thead align="center">
     <tr border: none;>
@@ -256,8 +257,8 @@ All Of My Projects:
     </tr>
   </tbody>
 </table>
-</details> 
--->
+</details> -->
+
 
 <!--START_SECTION:activity-->
 
