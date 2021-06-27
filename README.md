@@ -222,8 +222,8 @@ All Of My Projects:
 	
 <br >
 
-<!--  
-<table>
+ 
+<!-- <table>
   <thead align="center">
     <tr border: none;>
       <td><b>🎁 Projects</b></td>
